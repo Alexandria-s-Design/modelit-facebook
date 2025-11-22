@@ -1,0 +1,840 @@
+{
+  "total": 104,
+  "successful": 103,
+  "failed": 1,
+  "output_directory": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images",
+  "images": [
+    {
+      "post_number": 1,
+      "theme": "Quick Assessment Strategies",
+      "filename": "post_001_Quick_Assessment_Strategies.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_001_Quick_Assessment_Strategies.png",
+      "size_kb": 1202.7,
+      "status": "success"
+    },
+    {
+      "post_number": 2,
+      "theme": "Systems Diagrams",
+      "filename": "post_002_Systems_Diagrams.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_002_Systems_Diagrams.png",
+      "size_kb": 1340.0,
+      "status": "success"
+    },
+    {
+      "post_number": 3,
+      "theme": "Critical Thinking Growth",
+      "filename": "post_003_Critical_Thinking_Growth.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_003_Critical_Thinking_Growth.png",
+      "size_kb": 1206.2,
+      "status": "success"
+    },
+    {
+      "post_number": 4,
+      "theme": "Interactive Modeling Lessons",
+      "filename": "post_004_Interactive_Modeling_Lessons.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_004_Interactive_Modeling_Lessons.png",
+      "size_kb": 1250.4,
+      "status": "success"
+    },
+    {
+      "post_number": 5,
+      "theme": "Classroom Victory Celebrations",
+      "filename": "post_005_Classroom_Victory_Celebrations.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_005_Classroom_Victory_Celebrations.png",
+      "size_kb": 1419.0,
+      "status": "success"
+    },
+    {
+      "post_number": 6,
+      "theme": "Dynamic Biological Processes",
+      "filename": "post_006_Dynamic_Biological_Processes.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_006_Dynamic_Biological_Processes.png",
+      "size_kb": 1355.6,
+      "status": "success"
+    },
+    {
+      "post_number": 7,
+      "theme": "Classroom Management Tips",
+      "filename": "post_007_Classroom_Management_Tips.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_007_Classroom_Management_Tips.png",
+      "size_kb": 1400.2,
+      "status": "success"
+    },
+    {
+      "post_number": 8,
+      "theme": "Time-Saving Lesson Prep",
+      "filename": "post_008_Time-Saving_Lesson_Prep.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_008_Time-Saving_Lesson_Prep.png",
+      "size_kb": 1221.3,
+      "status": "success"
+    },
+    {
+      "post_number": 9,
+      "theme": "Cell Collective Features",
+      "filename": "post_009_Cell_Collective_Features.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_009_Cell_Collective_Features.png",
+      "size_kb": 926.4,
+      "status": "success"
+    },
+    {
+      "post_number": 10,
+      "theme": "Coloring & Puzzles",
+      "filename": "post_010_Coloring_&_Puzzles.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_010_Coloring_&_Puzzles.png",
+      "size_kb": 1221.8,
+      "status": "success"
+    },
+    {
+      "post_number": 11,
+      "theme": "Interconnected Biological Systems",
+      "filename": "post_011_Interconnected_Biological_Syst.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_011_Interconnected_Biological_Syst.png",
+      "size_kb": 1368.7,
+      "status": "success"
+    },
+    {
+      "post_number": 12,
+      "theme": "Remote Learning Solutions",
+      "filename": "post_012_Remote_Learning_Solutions.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_012_Remote_Learning_Solutions.png",
+      "size_kb": 1106.9,
+      "status": "success"
+    },
+    {
+      "post_number": 13,
+      "theme": "New Teaching Strategies",
+      "filename": "post_013_New_Teaching_Strategies.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_013_New_Teaching_Strategies.png",
+      "size_kb": 1393.7,
+      "status": "success"
+    },
+    {
+      "post_number": 14,
+      "theme": "Student Model Discoveries",
+      "filename": "post_014_Student_Model_Discoveries.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_014_Student_Model_Discoveries.png",
+      "size_kb": 1388.1,
+      "status": "success"
+    },
+    {
+      "post_number": 15,
+      "theme": "Monday Motivation",
+      "filename": "post_015_Monday_Motivation.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_015_Monday_Motivation.png",
+      "size_kb": 1418.9,
+      "status": "success"
+    },
+    {
+      "post_number": 16,
+      "theme": "Computational Biology Basics",
+      "filename": "post_016_Computational_Biology_Basics.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_016_Computational_Biology_Basics.png",
+      "size_kb": 1368.2,
+      "status": "success"
+    },
+    {
+      "post_number": 17,
+      "theme": "Boosting Student Engagement",
+      "filename": "post_017_Boosting_Student_Engagement.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_017_Boosting_Student_Engagement.png",
+      "size_kb": 1291.3,
+      "status": "success"
+    },
+    {
+      "post_number": 18,
+      "theme": "STEM Career Connections",
+      "filename": "post_018_STEM_Career_Connections.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_018_STEM_Career_Connections.png",
+      "size_kb": 1443.0,
+      "status": "success"
+    },
+    {
+      "post_number": 19,
+      "theme": "Differentiation Made Simple",
+      "filename": "post_019_Differentiation_Made_Simple.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_019_Differentiation_Made_Simple.png",
+      "size_kb": 1338.1,
+      "status": "success"
+    },
+    {
+      "post_number": 20,
+      "theme": "Student Breakthroughs",
+      "filename": "post_020_Student_Breakthroughs.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_020_Student_Breakthroughs.png",
+      "size_kb": 1453.1,
+      "status": "success"
+    },
+    {
+      "post_number": 21,
+      "theme": "Cell Collective Lesson Plans",
+      "filename": "post_021_Cell_Collective_Lesson_Plans.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_021_Cell_Collective_Lesson_Plans.png",
+      "size_kb": 1021.6,
+      "status": "success"
+    },
+    {
+      "post_number": 22,
+      "theme": "Brain Break Science Activities",
+      "filename": "post_022_Brain_Break_Science_Activities.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_022_Brain_Break_Science_Activities.png",
+      "size_kb": 1409.6,
+      "status": "success"
+    },
+    {
+      "post_number": 23,
+      "theme": "Aha Moments in Biology",
+      "filename": "post_023_Aha_Moments_in_Biology.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_023_Aha_Moments_in_Biology.png",
+      "size_kb": 1433.2,
+      "status": "success"
+    },
+    {
+      "post_number": 24,
+      "theme": "STEM Education Trends",
+      "filename": "post_024_STEM_Education_Trends.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_024_STEM_Education_Trends.png",
+      "size_kb": 1318.1,
+      "status": "success"
+    },
+    {
+      "post_number": 25,
+      "theme": "Meeting NGSS Standards Easily",
+      "filename": "post_025_Meeting_NGSS_Standards_Easily.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_025_Meeting_NGSS_Standards_Easily.png",
+      "size_kb": 1450.1,
+      "status": "success"
+    },
+    {
+      "post_number": 26,
+      "theme": "Multi-Scale Modeling",
+      "filename": "post_026_Multi-Scale_Modeling.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_026_Multi-Scale_Modeling.png",
+      "size_kb": 1138.3,
+      "status": "success"
+    },
+    {
+      "post_number": 27,
+      "theme": "Understanding Feedback Loops",
+      "filename": "post_027_Understanding_Feedback_Loops.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_027_Understanding_Feedback_Loops.png",
+      "size_kb": 1137.4,
+      "status": "success"
+    },
+    {
+      "post_number": 28,
+      "theme": "Systems Thinking Worksheets",
+      "filename": "post_028_Systems_Thinking_Worksheets.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_028_Systems_Thinking_Worksheets.png",
+      "size_kb": 1306.5,
+      "status": "success"
+    },
+    {
+      "post_number": 29,
+      "theme": "Foldable Templates",
+      "filename": "post_029_Foldable_Templates.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_029_Foldable_Templates.png",
+      "size_kb": 1127.3,
+      "status": "success"
+    },
+    {
+      "post_number": 30,
+      "theme": "Relatable Teaching Moments",
+      "filename": "post_030_Relatable_Teaching_Moments.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_030_Relatable_Teaching_Moments.png",
+      "size_kb": 1348.9,
+      "status": "success"
+    },
+    {
+      "post_number": 31,
+      "theme": "NGSS-Aligned Resources",
+      "filename": "post_031_NGSS-Aligned_Resources.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_031_NGSS-Aligned_Resources.png",
+      "size_kb": 1332.2,
+      "status": "success"
+    },
+    {
+      "post_number": 32,
+      "theme": "Friday Wins",
+      "filename": "post_032_Friday_Wins.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_032_Friday_Wins.png",
+      "size_kb": 1576.3,
+      "status": "success"
+    },
+    {
+      "post_number": 33,
+      "theme": "Digital Breakout Activities",
+      "filename": "post_033_Digital_Breakout_Activities.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_033_Digital_Breakout_Activities.png",
+      "size_kb": 1204.6,
+      "status": "success"
+    },
+    {
+      "post_number": 34,
+      "theme": "Student-Created Networks",
+      "filename": "post_034_Student-Created_Networks.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_034_Student-Created_Networks.png",
+      "size_kb": 1252.0,
+      "status": "success"
+    },
+    {
+      "post_number": 35,
+      "theme": "Cause and Effect in Biology",
+      "filename": "post_035_Cause_and_Effect_in_Biology.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_035_Cause_and_Effect_in_Biology.png",
+      "size_kb": 1324.5,
+      "status": "success"
+    },
+    {
+      "post_number": 36,
+      "theme": "Pattern Recognition Skills",
+      "filename": "post_036_Pattern_Recognition_Skills.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_036_Pattern_Recognition_Skills.png",
+      "size_kb": 1411.4,
+      "status": "success"
+    },
+    {
+      "post_number": 37,
+      "theme": "Research Updates",
+      "filename": "post_037_Research_Updates.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_037_Research_Updates.png",
+      "size_kb": 1394.8,
+      "status": "success"
+    },
+    {
+      "post_number": 38,
+      "theme": "Teacher Appreciation",
+      "filename": "post_038_Teacher_Appreciation.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_038_Teacher_Appreciation.png",
+      "size_kb": 1394.6,
+      "status": "success"
+    },
+    {
+      "post_number": 39,
+      "theme": "Quick Assessment Strategies",
+      "filename": "post_039_Quick_Assessment_Strategies.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_039_Quick_Assessment_Strategies.png",
+      "size_kb": 1093.3,
+      "status": "success"
+    },
+    {
+      "post_number": 40,
+      "theme": "Systems Diagrams",
+      "filename": "post_040_Systems_Diagrams.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_040_Systems_Diagrams.png",
+      "size_kb": 1464.6,
+      "status": "success"
+    },
+    {
+      "post_number": 41,
+      "theme": "Critical Thinking Growth",
+      "filename": "post_041_Critical_Thinking_Growth.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_041_Critical_Thinking_Growth.png",
+      "size_kb": 1065.7,
+      "status": "success"
+    },
+    {
+      "post_number": 42,
+      "theme": "Interactive Modeling Lessons",
+      "filename": "post_042_Interactive_Modeling_Lessons.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_042_Interactive_Modeling_Lessons.png",
+      "size_kb": 1267.7,
+      "status": "success"
+    },
+    {
+      "post_number": 43,
+      "theme": "Classroom Victory Celebrations",
+      "filename": "post_043_Classroom_Victory_Celebrations.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_043_Classroom_Victory_Celebrations.png",
+      "size_kb": 1451.3,
+      "status": "success"
+    },
+    {
+      "post_number": 44,
+      "theme": "Dynamic Biological Processes",
+      "filename": "post_044_Dynamic_Biological_Processes.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_044_Dynamic_Biological_Processes.png",
+      "size_kb": 1352.0,
+      "status": "success"
+    },
+    {
+      "post_number": 45,
+      "theme": "Classroom Management Tips",
+      "filename": null,
+      "full_path": null,
+      "size_kb": 0,
+      "status": "failed"
+    },
+    {
+      "post_number": 46,
+      "theme": "Time-Saving Lesson Prep",
+      "filename": "post_046_Time-Saving_Lesson_Prep.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_046_Time-Saving_Lesson_Prep.png",
+      "size_kb": 1229.2,
+      "status": "success"
+    },
+    {
+      "post_number": 47,
+      "theme": "Cell Collective Features",
+      "filename": "post_047_Cell_Collective_Features.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_047_Cell_Collective_Features.png",
+      "size_kb": 1066.5,
+      "status": "success"
+    },
+    {
+      "post_number": 48,
+      "theme": "Coloring & Puzzles",
+      "filename": "post_048_Coloring_&_Puzzles.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_048_Coloring_&_Puzzles.png",
+      "size_kb": 1471.3,
+      "status": "success"
+    },
+    {
+      "post_number": 49,
+      "theme": "Interconnected Biological Systems",
+      "filename": "post_049_Interconnected_Biological_Syst.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_049_Interconnected_Biological_Syst.png",
+      "size_kb": 1334.6,
+      "status": "success"
+    },
+    {
+      "post_number": 50,
+      "theme": "Remote Learning Solutions",
+      "filename": "post_050_Remote_Learning_Solutions.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_050_Remote_Learning_Solutions.png",
+      "size_kb": 1077.9,
+      "status": "success"
+    },
+    {
+      "post_number": 51,
+      "theme": "New Teaching Strategies",
+      "filename": "post_051_New_Teaching_Strategies.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_051_New_Teaching_Strategies.png",
+      "size_kb": 1293.3,
+      "status": "success"
+    },
+    {
+      "post_number": 52,
+      "theme": "Student Model Discoveries",
+      "filename": "post_052_Student_Model_Discoveries.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_052_Student_Model_Discoveries.png",
+      "size_kb": 1254.0,
+      "status": "success"
+    },
+    {
+      "post_number": 53,
+      "theme": "Monday Motivation",
+      "filename": "post_053_Monday_Motivation.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_053_Monday_Motivation.png",
+      "size_kb": 1132.8,
+      "status": "success"
+    },
+    {
+      "post_number": 54,
+      "theme": "Computational Biology Basics",
+      "filename": "post_054_Computational_Biology_Basics.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_054_Computational_Biology_Basics.png",
+      "size_kb": 1266.6,
+      "status": "success"
+    },
+    {
+      "post_number": 55,
+      "theme": "Boosting Student Engagement",
+      "filename": "post_055_Boosting_Student_Engagement.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_055_Boosting_Student_Engagement.png",
+      "size_kb": 1279.8,
+      "status": "success"
+    },
+    {
+      "post_number": 56,
+      "theme": "STEM Career Connections",
+      "filename": "post_056_STEM_Career_Connections.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_056_STEM_Career_Connections.png",
+      "size_kb": 1529.8,
+      "status": "success"
+    },
+    {
+      "post_number": 57,
+      "theme": "Differentiation Made Simple",
+      "filename": "post_057_Differentiation_Made_Simple.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_057_Differentiation_Made_Simple.png",
+      "size_kb": 1342.2,
+      "status": "success"
+    },
+    {
+      "post_number": 58,
+      "theme": "Student Breakthroughs",
+      "filename": "post_058_Student_Breakthroughs.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_058_Student_Breakthroughs.png",
+      "size_kb": 1148.7,
+      "status": "success"
+    },
+    {
+      "post_number": 59,
+      "theme": "Cell Collective Lesson Plans",
+      "filename": "post_059_Cell_Collective_Lesson_Plans.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_059_Cell_Collective_Lesson_Plans.png",
+      "size_kb": 1007.5,
+      "status": "success"
+    },
+    {
+      "post_number": 60,
+      "theme": "Brain Break Science Activities",
+      "filename": "post_060_Brain_Break_Science_Activities.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_060_Brain_Break_Science_Activities.png",
+      "size_kb": 1393.6,
+      "status": "success"
+    },
+    {
+      "post_number": 61,
+      "theme": "Aha Moments in Biology",
+      "filename": "post_061_Aha_Moments_in_Biology.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_061_Aha_Moments_in_Biology.png",
+      "size_kb": 1359.2,
+      "status": "success"
+    },
+    {
+      "post_number": 62,
+      "theme": "STEM Education Trends",
+      "filename": "post_062_STEM_Education_Trends.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_062_STEM_Education_Trends.png",
+      "size_kb": 1396.4,
+      "status": "success"
+    },
+    {
+      "post_number": 63,
+      "theme": "Meeting NGSS Standards Easily",
+      "filename": "post_063_Meeting_NGSS_Standards_Easily.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_063_Meeting_NGSS_Standards_Easily.png",
+      "size_kb": 1208.1,
+      "status": "success"
+    },
+    {
+      "post_number": 64,
+      "theme": "Multi-Scale Modeling",
+      "filename": "post_064_Multi-Scale_Modeling.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_064_Multi-Scale_Modeling.png",
+      "size_kb": 1281.5,
+      "status": "success"
+    },
+    {
+      "post_number": 65,
+      "theme": "Understanding Feedback Loops",
+      "filename": "post_065_Understanding_Feedback_Loops.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_065_Understanding_Feedback_Loops.png",
+      "size_kb": 1417.9,
+      "status": "success"
+    },
+    {
+      "post_number": 66,
+      "theme": "Systems Thinking Worksheets",
+      "filename": "post_066_Systems_Thinking_Worksheets.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_066_Systems_Thinking_Worksheets.png",
+      "size_kb": 1263.0,
+      "status": "success"
+    },
+    {
+      "post_number": 67,
+      "theme": "Foldable Templates",
+      "filename": "post_067_Foldable_Templates.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_067_Foldable_Templates.png",
+      "size_kb": 1235.5,
+      "status": "success"
+    },
+    {
+      "post_number": 68,
+      "theme": "Relatable Teaching Moments",
+      "filename": "post_068_Relatable_Teaching_Moments.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_068_Relatable_Teaching_Moments.png",
+      "size_kb": 1484.1,
+      "status": "success"
+    },
+    {
+      "post_number": 69,
+      "theme": "NGSS-Aligned Resources",
+      "filename": "post_069_NGSS-Aligned_Resources.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_069_NGSS-Aligned_Resources.png",
+      "size_kb": 1223.9,
+      "status": "success"
+    },
+    {
+      "post_number": 70,
+      "theme": "Friday Wins",
+      "filename": "post_070_Friday_Wins.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_070_Friday_Wins.png",
+      "size_kb": 1403.0,
+      "status": "success"
+    },
+    {
+      "post_number": 71,
+      "theme": "Digital Breakout Activities",
+      "filename": "post_071_Digital_Breakout_Activities.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_071_Digital_Breakout_Activities.png",
+      "size_kb": 1447.5,
+      "status": "success"
+    },
+    {
+      "post_number": 72,
+      "theme": "Student-Created Networks",
+      "filename": "post_072_Student-Created_Networks.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_072_Student-Created_Networks.png",
+      "size_kb": 1264.7,
+      "status": "success"
+    },
+    {
+      "post_number": 73,
+      "theme": "Cause and Effect in Biology",
+      "filename": "post_073_Cause_and_Effect_in_Biology.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_073_Cause_and_Effect_in_Biology.png",
+      "size_kb": 1288.6,
+      "status": "success"
+    },
+    {
+      "post_number": 74,
+      "theme": "Pattern Recognition Skills",
+      "filename": "post_074_Pattern_Recognition_Skills.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_074_Pattern_Recognition_Skills.png",
+      "size_kb": 1205.7,
+      "status": "success"
+    },
+    {
+      "post_number": 75,
+      "theme": "Research Updates",
+      "filename": "post_075_Research_Updates.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_075_Research_Updates.png",
+      "size_kb": 1156.6,
+      "status": "success"
+    },
+    {
+      "post_number": 76,
+      "theme": "Teacher Appreciation",
+      "filename": "post_076_Teacher_Appreciation.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_076_Teacher_Appreciation.png",
+      "size_kb": 1366.5,
+      "status": "success"
+    },
+    {
+      "post_number": 77,
+      "theme": "Quick Assessment Strategies",
+      "filename": "post_077_Quick_Assessment_Strategies.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_077_Quick_Assessment_Strategies.png",
+      "size_kb": 1261.4,
+      "status": "success"
+    },
+    {
+      "post_number": 78,
+      "theme": "Systems Diagrams",
+      "filename": "post_078_Systems_Diagrams.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_078_Systems_Diagrams.png",
+      "size_kb": 1330.4,
+      "status": "success"
+    },
+    {
+      "post_number": 79,
+      "theme": "Critical Thinking Growth",
+      "filename": "post_079_Critical_Thinking_Growth.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_079_Critical_Thinking_Growth.png",
+      "size_kb": 1449.2,
+      "status": "success"
+    },
+    {
+      "post_number": 80,
+      "theme": "Interactive Modeling Lessons",
+      "filename": "post_080_Interactive_Modeling_Lessons.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_080_Interactive_Modeling_Lessons.png",
+      "size_kb": 1212.6,
+      "status": "success"
+    },
+    {
+      "post_number": 81,
+      "theme": "Classroom Victory Celebrations",
+      "filename": "post_081_Classroom_Victory_Celebrations.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_081_Classroom_Victory_Celebrations.png",
+      "size_kb": 1122.9,
+      "status": "success"
+    },
+    {
+      "post_number": 82,
+      "theme": "Dynamic Biological Processes",
+      "filename": "post_082_Dynamic_Biological_Processes.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_082_Dynamic_Biological_Processes.png",
+      "size_kb": 1299.3,
+      "status": "success"
+    },
+    {
+      "post_number": 83,
+      "theme": "Classroom Management Tips",
+      "filename": "post_083_Classroom_Management_Tips.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_083_Classroom_Management_Tips.png",
+      "size_kb": 1318.7,
+      "status": "success"
+    },
+    {
+      "post_number": 84,
+      "theme": "Time-Saving Lesson Prep",
+      "filename": "post_084_Time-Saving_Lesson_Prep.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_084_Time-Saving_Lesson_Prep.png",
+      "size_kb": 1210.8,
+      "status": "success"
+    },
+    {
+      "post_number": 85,
+      "theme": "Cell Collective Features",
+      "filename": "post_085_Cell_Collective_Features.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_085_Cell_Collective_Features.png",
+      "size_kb": 1120.4,
+      "status": "success"
+    },
+    {
+      "post_number": 86,
+      "theme": "Coloring & Puzzles",
+      "filename": "post_086_Coloring_&_Puzzles.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_086_Coloring_&_Puzzles.png",
+      "size_kb": 1545.9,
+      "status": "success"
+    },
+    {
+      "post_number": 87,
+      "theme": "Interconnected Biological Systems",
+      "filename": "post_087_Interconnected_Biological_Syst.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_087_Interconnected_Biological_Syst.png",
+      "size_kb": 1388.6,
+      "status": "success"
+    },
+    {
+      "post_number": 88,
+      "theme": "Remote Learning Solutions",
+      "filename": "post_088_Remote_Learning_Solutions.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_088_Remote_Learning_Solutions.png",
+      "size_kb": 1089.0,
+      "status": "success"
+    },
+    {
+      "post_number": 89,
+      "theme": "New Teaching Strategies",
+      "filename": "post_089_New_Teaching_Strategies.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_089_New_Teaching_Strategies.png",
+      "size_kb": 1500.7,
+      "status": "success"
+    },
+    {
+      "post_number": 90,
+      "theme": "Student Model Discoveries",
+      "filename": "post_090_Student_Model_Discoveries.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_090_Student_Model_Discoveries.png",
+      "size_kb": 1372.4,
+      "status": "success"
+    },
+    {
+      "post_number": 91,
+      "theme": "Monday Motivation",
+      "filename": "post_091_Monday_Motivation.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_091_Monday_Motivation.png",
+      "size_kb": 1416.7,
+      "status": "success"
+    },
+    {
+      "post_number": 92,
+      "theme": "Computational Biology Basics",
+      "filename": "post_092_Computational_Biology_Basics.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_092_Computational_Biology_Basics.png",
+      "size_kb": 1237.0,
+      "status": "success"
+    },
+    {
+      "post_number": 93,
+      "theme": "Boosting Student Engagement",
+      "filename": "post_093_Boosting_Student_Engagement.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_093_Boosting_Student_Engagement.png",
+      "size_kb": 1186.0,
+      "status": "success"
+    },
+    {
+      "post_number": 94,
+      "theme": "STEM Career Connections",
+      "filename": "post_094_STEM_Career_Connections.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_094_STEM_Career_Connections.png",
+      "size_kb": 1091.3,
+      "status": "success"
+    },
+    {
+      "post_number": 95,
+      "theme": "Differentiation Made Simple",
+      "filename": "post_095_Differentiation_Made_Simple.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_095_Differentiation_Made_Simple.png",
+      "size_kb": 1403.9,
+      "status": "success"
+    },
+    {
+      "post_number": 96,
+      "theme": "Student Breakthroughs",
+      "filename": "post_096_Student_Breakthroughs.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_096_Student_Breakthroughs.png",
+      "size_kb": 1417.4,
+      "status": "success"
+    },
+    {
+      "post_number": 97,
+      "theme": "Cell Collective Lesson Plans",
+      "filename": "post_097_Cell_Collective_Lesson_Plans.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_097_Cell_Collective_Lesson_Plans.png",
+      "size_kb": 1468.4,
+      "status": "success"
+    },
+    {
+      "post_number": 98,
+      "theme": "Brain Break Science Activities",
+      "filename": "post_098_Brain_Break_Science_Activities.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_098_Brain_Break_Science_Activities.png",
+      "size_kb": 1478.3,
+      "status": "success"
+    },
+    {
+      "post_number": 99,
+      "theme": "Aha Moments in Biology",
+      "filename": "post_099_Aha_Moments_in_Biology.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_099_Aha_Moments_in_Biology.png",
+      "size_kb": 1371.0,
+      "status": "success"
+    },
+    {
+      "post_number": 100,
+      "theme": "STEM Education Trends",
+      "filename": "post_100_STEM_Education_Trends.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_100_STEM_Education_Trends.png",
+      "size_kb": 1360.7,
+      "status": "success"
+    },
+    {
+      "post_number": 101,
+      "theme": "Meeting NGSS Standards Easily",
+      "filename": "post_101_Meeting_NGSS_Standards_Easily.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_101_Meeting_NGSS_Standards_Easily.png",
+      "size_kb": 1365.2,
+      "status": "success"
+    },
+    {
+      "post_number": 102,
+      "theme": "Multi-Scale Modeling",
+      "filename": "post_102_Multi-Scale_Modeling.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_102_Multi-Scale_Modeling.png",
+      "size_kb": 1408.3,
+      "status": "success"
+    },
+    {
+      "post_number": 103,
+      "theme": "Understanding Feedback Loops",
+      "filename": "post_103_Understanding_Feedback_Loops.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_103_Understanding_Feedback_Loops.png",
+      "size_kb": 1239.0,
+      "status": "success"
+    },
+    {
+      "post_number": 104,
+      "theme": "Systems Thinking Worksheets",
+      "filename": "post_104_Systems_Thinking_Worksheets.png",
+      "full_path": "C:\\Users\\MarieLexisDad\\temp\\modelit_facebook_images\\post_104_Systems_Thinking_Worksheets.png",
+      "size_kb": 1313.7,
+      "status": "success"
+    }
+  ]
+}
